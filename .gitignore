@@ -1,0 +1,7 @@
+# Project exclude paths
+/node_modules/
+/node_modules/@types/node/LICENSE
+/node_modules/@types/node/README.md
+/node_modules/@types/node/test/
+/node_modules/undici-types/LICENSE
+/node_modules/undici-types/README.md
